@@ -1,0 +1,38 @@
+
+
+h3{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+nav{
+    background-color: aqua;
+    color: black;
+    height: 80px;
+}
+
+.nav-con{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+}
+
+ul.menu li{
+    display: flex;
+    list-style: none;
+}
+
+ul.menu li{
+    margin: 0 1rem;
+}
+
+ul.menu li a{
+    color: black;
+    text-decoration: none;
+}
